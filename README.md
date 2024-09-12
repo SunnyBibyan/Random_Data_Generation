@@ -44,7 +44,7 @@ The project includes histograms for each type of distribution:
 ## Project Structure
 
 ### How to Use the Project
-1. **Run the Script:** Execute `MyFirstApp.py` to generate the dataset and visualizations.
+1. **Run the Script:** Execute `App.py` to generate the dataset and visualizations.
 2. **Explore Visualizations:** Use the Streamlit interface to select columns and view histograms.
 3. **Download Data:** Use the download button to save the generated dataset as a CSV file.
 
