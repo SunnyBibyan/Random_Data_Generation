@@ -1,4 +1,4 @@
-# Random Data Generation
+# Random Data Generation and Basic Statistical Analysis
 
 ## Overview
 This project generates a synthetic dataset using various statistical distributions, providing insights into the nature of random data. The dataset includes values from Normal, Uniform, Exponential, Random Integers, and Binomial distributions, allowing for a comprehensive analysis of different types of data.
